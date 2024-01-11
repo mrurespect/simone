@@ -4,7 +4,7 @@ body {
     overflow: auto;
 }
 .home{
-    background-image: url("/images/intro-bg.jpg");
+    background-image: url("images/intro-bg.jpg");
     background-size: cover;
     background-position: center center;
 }
